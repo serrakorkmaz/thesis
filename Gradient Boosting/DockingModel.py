@@ -42,8 +42,8 @@ def save_predictions(test_data, test_preds, valid_indices):
     test_data.to_csv('test_predictions_braf.csv', index=False)
 
 # Load datasets
-train = pd.read_csv('/home/aih/serra.korkmaz/projects/saturn/SurogateModel/training_data_4sm_chembl/train_data_braf.csv', sep=',')
-test = pd.read_csv('/home/aih/serra.korkmaz/projects/saturn/SurogateModel/training_data_4sm_chembl/test_data_braf.csv', sep=',')
+train = pd.read_csv('train_data_braf.csv', sep=',')
+test = pd.read_csv('test_data_braf.csv', sep=',')
 
 # Prepare fingerprints
 train_fps, valid_train_indices = prepare_fingerprints(train)
