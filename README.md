@@ -19,10 +19,10 @@ The repository is organized to separate model code, configuration files, checkpo
 ```
 
 Preliminery installations
-SATURN is utilized in this thesis.
-1)Clone the repository https://github.com/schwallergroup/saturn
+**SATURN** 
+1)Clone the repository 'https://github.com/schwallergroup/saturn'
 2)Follow the installation instructions in the repository's README.md
-Aizynthfinder is utilized in this thesis
-1)Clone the repository https://github.com/MolecularAI/aizynthfinder
+**Aizynthfinder**
+1)Clone the repository 'https://github.com/MolecularAI/aizynthfinder'
 2)Follow the installation instructions in the repository's README.md
 
