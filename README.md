@@ -1,6 +1,9 @@
 # Thesis
 This repository contains the code and experiments for my master's thesis on **generative inverse design with language models**, with a focus on exploring the practical application of genAI in real-world  drug design scenarios.
 
+The repository is organized to separate model code, configuration files, checkpoints, and datasets for clarity and reproducibility.
+
+
 ├── Chemprop/ # Code or setup for Chemprop model 
 ├── Config files/ # configuration files for experiments 
 ├── Gradient Boosting/ # code for Gradient Boosting, GB 
