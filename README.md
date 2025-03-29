@@ -4,7 +4,7 @@ This repository contains the code and experiments for my master's thesis on **ge
 The repository is organized to separate model code, configuration files, checkpoints, and datasets for clarity and reproducibility.
 
 
-├── chemprop/ # Code or setup for Chemprop model 
+```├── chemprop/ # Code or setup for Chemprop model 
 ├── configs/ # configuration files for experiments 
 ├── gradientboosting/ # code for Gradient Boosting, GB 
 ├── ckpt_experiment3_chemprop/ # Checkpoints for Chemprop (Experiment 3) 
@@ -14,7 +14,7 @@ The repository is organized to separate model code, configuration files, checkpo
 ├── saturn_mods/ # Modified SATURN code
 ├── data/ # Dataset used to train surrogate models in Experiment 3 and Experiment 4
 ├── LICENSE 
-└── README.md
+└── README.md```
 
 Preliminery installations
 SATURN is utilized in this thesis.
