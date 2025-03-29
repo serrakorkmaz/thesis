@@ -4,15 +4,23 @@ This repository contains the code and experiments for my master's thesis on **ge
 The repository is organized to separate model code, configuration files, checkpoints, and datasets for clarity and reproducibility.
 
 
-├── Chemprop/ # Code or setup for Chemprop model \\
-├── Config files/ # configuration files for experiments \\
-├── Gradient Boosting/ # code for Gradient Boosting, GB 
+├── chemprop/ # Code or setup for Chemprop model 
+├── configs/ # configuration files for experiments 
+├── gradientboosting/ # code for Gradient Boosting, GB 
 ├── ckpt_experiment3_chemprop/ # Checkpoints for Chemprop (Experiment 3) 
 ├── ckpt_experiment3_gradientboosting/ # Checkpoints for GB (Experiment 3) 
 ├── ckpt_experiment4_chemprop/ # Checkpoints for Chemprop (Experiment 4) 
 ├── ckpt_experiment4_gradientboosting/ # Checkpoints for GB (Experiment 4) 
 ├── saturn_mods/ # Modified SATURN code
-├── training_data_experiment3/ # Dataset used to train surrogate models in Experiment 3 
-├── training_data_experiment4/ # Dataset used to train surrogate models in Experiment 4 
+├── data/ # Dataset used to train surrogate models in Experiment 3 and Experiment 4
 ├── LICENSE 
 └── README.md
+
+Preliminery installations
+SATURN is utilized in this thesis.
+1)Clone the repository
+2)Follow the installation instructions in the repository's README.md
+Aizynthfinder is utilized in this thesis
+1)Clone the repository
+2)Follow the installation instructions in the repository's README.md
+
