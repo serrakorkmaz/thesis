@@ -18,7 +18,7 @@ The repository is organized to separate model code, configuration files, checkpo
 └── README.md
 ```
 
-Preliminery installations
+## 🛠️ Preliminary Installations
 ### SATURN
 1. Clone the repository: [github.com/schwallergroup/saturn](https://github.com/schwallergroup/saturn)
 2. Follow the installation instructions in their `README.md`.
