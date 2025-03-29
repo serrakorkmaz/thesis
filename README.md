@@ -20,9 +20,9 @@ The repository is organized to separate model code, configuration files, checkpo
 
 Preliminery installations
 **SATURN** 
-1)Clone the repository 'https://github.com/schwallergroup/saturn'
-2)Follow the installation instructions in the repository's README.md
+1)Clone the repository 'https://github.com/schwallergroup/saturn'.
+2)Follow the installation instructions in the repository's README.md.
 **Aizynthfinder**
-1)Clone the repository 'https://github.com/MolecularAI/aizynthfinder'
-2)Follow the installation instructions in the repository's README.md
+1)Clone the repository 'https://github.com/MolecularAI/aizynthfinder'.
+2)Follow the installation instructions in the repository's README.md.
 
