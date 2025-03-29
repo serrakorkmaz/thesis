@@ -4,8 +4,8 @@ This repository contains the code and experiments for my master's thesis on **ge
 The repository is organized to separate model code, configuration files, checkpoints, and datasets for clarity and reproducibility.
 
 
-├── Chemprop/ # Code or setup for Chemprop model 
-├── Config files/ # configuration files for experiments 
+├── Chemprop/ # Code or setup for Chemprop model \\
+├── Config files/ # configuration files for experiments \\
 ├── Gradient Boosting/ # code for Gradient Boosting, GB 
 ├── ckpt_experiment3_chemprop/ # Checkpoints for Chemprop (Experiment 3) 
 ├── ckpt_experiment3_gradientboosting/ # Checkpoints for GB (Experiment 3) 
