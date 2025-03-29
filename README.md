@@ -5,24 +5,24 @@ The repository is organized to separate model code, configuration files, checkpo
 
 
 ```
-├── chemprop/ # Code or setup for Chemprop model 
-├── configs/ # configuration files for experiments 
-├── gradientboosting/ # code for Gradient Boosting, GB 
-├── ckpt_experiment3_chemprop/ # Checkpoints for Chemprop (Experiment 3) 
-├── ckpt_experiment3_gradientboosting/ # Checkpoints for GB (Experiment 3) 
-├── ckpt_experiment4_chemprop/ # Checkpoints for Chemprop (Experiment 4) 
-├── ckpt_experiment4_gradientboosting/ # Checkpoints for GB (Experiment 4) 
-├── saturn_mods/ # Modified SATURN code
-├── data/ # Dataset used to train surrogate models in Experiment 3 and Experiment 4
-├── LICENSE 
+├── chemprop/                           # Code/setup for Chemprop model
+├── configs/                            # Configuration files for experiments
+├── gradientboosting/                   # Code for Gradient Boosting model
+├── ckpt_experiment3_chemprop/          # Chemprop checkpoints (Experiment 3)
+├── ckpt_experiment3_gradientboosting/  # GB checkpoints (Experiment 3)
+├── ckpt_experiment4_chemprop/          # Chemprop checkpoints (Experiment 4)
+├── ckpt_experiment4_gradientboosting/  # GB checkpoints (Experiment 4)
+├── saturn_mods/                        # Modified SATURN code
+├── data/                               # Training datasets for surrogate models
+├── LICENSE
 └── README.md
 ```
 
 Preliminery installations
 SATURN is utilized in this thesis.
-1)Clone the repository
+1)Clone the repository https://github.com/schwallergroup/saturn
 2)Follow the installation instructions in the repository's README.md
 Aizynthfinder is utilized in this thesis
-1)Clone the repository
+1)Clone the repository https://github.com/MolecularAI/aizynthfinder
 2)Follow the installation instructions in the repository's README.md
 
