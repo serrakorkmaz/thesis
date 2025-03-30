@@ -5,7 +5,7 @@ The repository is organized as follow:
 
 
 ```
-├── chemprop/                           # Code/setup for Chemprop model
+├── chemprop/                           # Code for Chemprop model
 ├── configs/                            # Configuration files for experiments
 ├── gradientboosting/                   # Code for Gradient Boosting model
 ├── ckpt_experiment3_chemprop/          # Chemprop checkpoints (Experiment 3)
